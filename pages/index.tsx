@@ -5,8 +5,8 @@ export default function Home() {
     return (
         <div className={styles.container}>
             <Head>
-                <title>Nina Misler</title>
-                <meta name="description" content="Welcome to ninamisler.com" />
+                <title>Nina Rules.</title>
+                <meta name="description" content="NinaMisler.com" />
                 <link rel="icon" href="/favicon.ico" />
             </Head>
 
